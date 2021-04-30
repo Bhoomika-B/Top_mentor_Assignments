@@ -12,6 +12,6 @@ Tool used: MS-Excel
 
 # ASSIGNMENT 2 :
 
-Preparing a dashboard by analyzing the Top Mentor Travel Agents Dataset
+Preparing a dashboard by analyzing the Top Mentor Travel Agents Dataset and Life in the Roller coaster data 
 
 Tool used: MS-Excel
